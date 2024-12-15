@@ -1,0 +1,56 @@
+C:\Users\user\Desktop\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.exe
+C:\Users\user\Desktop\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.deps.json
+C:\Users\user\Desktop\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.runtimeconfig.json
+C:\Users\user\Desktop\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.dll
+C:\Users\user\Desktop\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.pdb
+C:\Users\user\Desktop\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.AssemblyInfo.cs
+C:\Users\user\Desktop\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.dll
+C:\Users\user\Desktop\tic tac toe\tic tac toe\obj\Debug\net6.0\refint\tic tac toe.dll
+C:\Users\user\Desktop\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.pdb
+C:\Users\user\Desktop\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.genruntimeconfig.cache
+C:\Users\user\Desktop\tic tac toe\tic tac toe\obj\Debug\net6.0\ref\tic tac toe.dll
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.exe
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.deps.json
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.runtimeconfig.json
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.dll
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.pdb
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.AssemblyInfo.cs
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.dll
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\refint\tic tac toe.dll
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.pdb
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.genruntimeconfig.cache
+C:\Users\user\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\ref\tic tac toe.dll
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.exe
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.deps.json
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.runtimeconfig.json
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.dll
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.pdb
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.AssemblyInfoInputs.cache
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.AssemblyInfo.cs
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.csproj.CoreCompileInputs.cache
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.dll
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\refint\tic tac toe.dll
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.pdb
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.genruntimeconfig.cache
+D:\importanto\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\ref\tic tac toe.dll
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.exe
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.deps.json
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.runtimeconfig.json
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.dll
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\bin\Debug\net6.0\tic tac toe.pdb
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.AssemblyInfoInputs.cache
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.AssemblyInfo.cs
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.dll
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\refint\tic tac toe.dll
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.pdb
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\tic tac toe.genruntimeconfig.cache
+C:\Users\Saba\Desktop\For GITHUB\tic tac toe\tic tac toe\obj\Debug\net6.0\ref\tic tac toe.dll
